@@ -1,4 +1,3 @@
-# Chưa viết xong đừng đọc làm gì :))
 # Specs:
 * CPU: Intel Core i3-9100F
 * iGPU: No
